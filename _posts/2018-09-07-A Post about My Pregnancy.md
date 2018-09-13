@@ -1,17 +1,23 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "A Post about My Preganncy!"
 categories: [blog, pregnancy]
 tags: [hot, summer]
 ---
 
-# Welcome
+# Hemotoma
 
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
+**Hemeotoma**, but getting smaller.
 
 ... which is shown in the screenshot below:
-![My helpful screenshot](/assets/screenshot.jpg)
+![ultrasound](/assets/ultrasound1.jpg)
+![ultrasound](/assets/ultrasound2.jpg)
+![ultrasound](/assets/ultrasound3.jpg)
+![ultrasound](/assets/ultrasound4.jpg)
+![ultrasound](/assets/ultrasound5.jpg)
+![ultrasound](/assets/ultrasound6.jpg)
+![ultrasound](/assets/ultrasound7.jpg)
+![ultrasound](/assets/ultrasound8.jpg)
+![ultrasound](/assets/ultrasound9.jpg)
 
-... you can [get the PDF](/assets/mydoc.pdf) directly.
+... you can [get the PDF](/assets/ultrasound_all.pdf) directly.
