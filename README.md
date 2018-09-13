@@ -10,6 +10,16 @@
 
 (-)
 
+He began ...
+
+Learn more on  **LinkedIn**
+
+tags: Police, Fire, Lego
+
+Popular
+
+Events
+
 <p align="center">
   <a href="https://andrewhill00001.github.io/">
     <img src="https://andrewhill00001.github.io/assets/hillinfo.jpg" alt="hillinfo logo" width=72 height=72>
@@ -36,16 +46,6 @@
 </p>
 
 <br>
-He began ...
-
-Learn more on  **LinkedIn**
-
-tags: Police, Fire, Lego
-
-Popular
-
-Events
-
 
 Have feedback on this post? Let @andrewhill know on Twitter.
 Need help? Contact me.
