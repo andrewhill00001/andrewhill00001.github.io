@@ -1,8 +1,13 @@
-#build settings
-markdown: kramdown
-theme: jekyll-theme-primer
-
+# Site settings
 title: "Andrew Hill"
 email: andrewhill00001@gmail.com
-description: Finance
+description: 
+  Finance
+baseurl: "/andrewhill00001.github.io" # the subpath of your site, e.g. /blog
+twitter_username: andrewhill00001
+github_username:  andrewhill00001
 google_analytics: [Your Google Analytics tracking ID]
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-primer
