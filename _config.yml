@@ -1,0 +1,8 @@
+#build settings
+markdown: kramdown
+theme: jekyll-theme-primer
+
+title: "Claudia Hill"
+email: claudia@hi-ll.info
+description: Finance
+google_analytics: [Your Google Analytics tracking ID]
