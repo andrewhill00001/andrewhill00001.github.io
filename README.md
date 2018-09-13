@@ -1,5 +1,4 @@
-
-![gif](https://drive.google.com/open?id=118_oT00zGTrS3SNhISN2vrQACc4m6ejQ)
+![gif](https://drive.google.com/open?id=118_oT00zGTrS3SNhISN2vrQACc4m6ejQ=w2400)
 ![profile](https://lh6.googleusercontent.com/kHWwIE27QeWjktW7_FN1keWmaO114hddAXo6LWj1bhiiISO6GbuO6eLZUrE=w2400)
 ## ANDREW HILL 
 ![LinkedIn](https://lh5.googleusercontent.com/-bTfap3my7W4NXJgh20bQin-Q3W1PGUS-xuw5B3PuuRjoG5Ov8khzqiSfvs=w50)
