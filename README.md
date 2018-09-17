@@ -56,6 +56,26 @@ Step 2: Talking
 
 He began ...
 
+###Ausbildung
+lic. oec. Universität St. Gallen, Schweiz
+Master of Arts, Computer Studies, University of Hull, Hull, England
+###Berufliche Stationen
+1996-2002
+Helsinki: Associate Principal Financial Services Group
+2002-2008
+Sampo Gruppe, Finnland:
+2002-2004
+Leiter Business Development, Mitglied der erweiterten Geschäftsleitung
+2004-2008
+Leiter Eastern European Banking, Mitglied der Geschäftsleitung
+2008-2012
+Danske Bank Gruppe, Dänemark:
+2008-2010
+Leiter Business Development, Mitglied der erweiterten Gruppengeschäftsleitung
+2010-2012
+Chief Operating Officer, Mitglied der Gruppengeschäftsleitung
+Seit 1. August 2012
+Leiter Wealth Management Vontobel
 
 Learn more on  **LinkedIn**
 
@@ -308,7 +328,7 @@ Open Source Code of Conduct. For more information see the Code of Conduct FAQ or
                         <a class="c-uhff-link" href="http://go.microsoft.com/fwlink/?LinkId=123159" data-mscc-ic="false" data-m="{&quot;cN&quot;:&quot;Trademarks_nav&quot;,&quot;id&quot;:&quot;n5c8c1c1m1r1a2&quot;,&quot;sN&quot;:5,&quot;aN&quot;:&quot;c8c1c1m1r1a2&quot;}">Trademarks</a>
                     </li>
 
-            <li>© Microsoft 2018</li>
+            <li>© Andrew Hill 2018</li>
             
         </ul>
     </div>
