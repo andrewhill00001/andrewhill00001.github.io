@@ -68,4 +68,10 @@ Events
 
 <br>
 
+Contributing
+
+Contributor License Agreement (CLA). For details, visit https://cla.eu.com.
+
+Open Source Code of Conduct. For more information see the Code of Conduct FAQ or contact opencode@eu.com with any additional questions or comments.
+
 © 2018 andrewhill  All Rights Reserved  Privacy Policy
