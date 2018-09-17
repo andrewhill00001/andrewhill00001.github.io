@@ -1,9 +1,12 @@
 ![gif](https://lh6.googleusercontent.com/pU9lVcl4u5psjO7tPQq691JIFzIVFaOcRZs8jLmUj4-FanrAHjLi2btOolI=w2400)
 
 ![profile](https://lh6.googleusercontent.com/kHWwIE27QeWjktW7_FN1keWmaO114hddAXo6LWj1bhiiISO6GbuO6eLZUrE=w50)
-## ANDREW HILL 
+## ANDREW HILL
 
-Follow Andrew Hill
+04/09/2018
+2 minutes to read
+Contributors
+Andrew 
 
 ![Twitter](https://lh5.googleusercontent.com/a22yI-6dVlUoNbGd1_PYNa9lvKpaYWYD_AxYHaE5W7Ry1nnXi4L9ldV6qk8=w50)
 ![Instagram](https://lh5.googleusercontent.com/n777S_0bN5E_hMmetDXC2vgMCEe1Y-fE0-xmmxUIr2noRm_YjkHLwjYWv-I=w50) 
@@ -15,7 +18,20 @@ Follow Andrew Hill
 
 (-)
 
+Full Person Info
+
+Step 0: Born
+
+minimum: KG, CM
+
+Step 1: Walking
+
 He began ...
+
+Step 2: Talking
+
+He began ...
+
 
 Learn more on  **LinkedIn**
 
