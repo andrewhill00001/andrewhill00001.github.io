@@ -1,13 +1,15 @@
 # Site settings
 title: "Andrew Hill"
 email: andrewhill00001@gmail.com
-description: 
-  Finance
-baseurl: "/andrewhill00001.github.io" # the subpath of your site, e.g. /blog
+description: "Finance Professional"
+url: "http://andrewhill00001.github.io" # the subpath of your site, e.g. /blog
 twitter_username: andrewhill00001
 github_username:  andrewhill00001
+skype_username: andrewhill00001
 google_analytics: [Your Google Analytics tracking ID]
 
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-primer
+
+permalink: pretty
