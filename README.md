@@ -1,3 +1,64 @@
+# Andrew Hill's website
+
+<!-- markdownlint-disable -->
+[![Build Status](https://travis-ci.org/andrewhill00001/andrewhill00001.github.io.svg?branch=master)](https://travis-ci.org/andrewhill00001/andrewhill00001.github.io)
+<!-- markdownlint-enable -->
+
+This is the code for [Andrew Hill's website](https://andrewhill00001.github.io).
+Most of the documentation though is in the main [Andrew Hill
+repo](https://github.com/andrewhill00001/andrewhill00001.github.io).
+
+## Getting started
+
+_**Note:**_ Our builder uses async arrow functions as well as other ES2017
+features so please ensure you are using Node.js v8.x or higher.
+
+Clone the project:
+
+``` bash
+git clone https://github.com/andrewhill00001/andrewhill00001.github.io/website.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Fetch remote content (e.g. documentation)
+
+```bash
+npm run update-content
+```
+
+Build the site:
+
+```bash
+npm run build
+```
+
+Run server:
+
+```bash
+npm start
+```
+
+To know more about the internals of the site please read the
+[server](architecture/server.md) documentation.
+
+## Code of Conduct
+
+This project adheres to the [JS Foundation's code of
+conduct](https://js.foundation/community/code-of-conduct).
+
+By participating in this project you agree to abide by its terms.
+
+## License
+
+The code is available under the [Apache 2.0 license](LICENSE.txt).
+
+
+
 ![gif](https://lh6.googleusercontent.com/pU9lVcl4u5psjO7tPQq691JIFzIVFaOcRZs8jLmUj4-FanrAHjLi2btOolI=w2400)
 
 ![profile](https://lh6.googleusercontent.com/kHWwIE27QeWjktW7_FN1keWmaO114hddAXo6LWj1bhiiISO6GbuO6eLZUrE=w50)
@@ -24,7 +85,6 @@
       <i class="fa fa-envelope fa-fw"></i>
     </a>
 </div>
-
 
 ![Date](https://lh6.googleusercontent.com/ujDPOkNaGWtFeCM9gIMmYVl6WXffCYI_2w80FJ-Pgj61mAmL1AvpbAbq12U=w50)04/09/2018
 2 minutes to read
